@@ -1,3 +1,5 @@
+# Resume Sift
+
 A typical job posting on the Internet receives a massive number of applications within a short window of time. Manually filtering out the resumes is not practically possible as it takes a lot of time and incurs huge costs that the hiring companies cannot afford to bear. In addition, this process of screening resumes is not fair as many suitable profiles don’t get enough consideration which they deserve. This may result in missing out on the right candidates or selection of unsuitable applicants for the job. 
 
 ### Resume sift comes to rescue
